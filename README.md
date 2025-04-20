@@ -4,42 +4,13 @@
     Hi 👋, I'm Mahabub Hossain
 </p>
 
----
-
-A passionate **Full Stack Web Developer** with expertise in **MERN Stack**, **WordPress**, **Wix**, **PHP**, and **Java**. I create modern, responsive, fully functional websites and web applications that enhance user experience and meet clients' business goals.
-
 ### 🌱 I’m Currently Learning  
-- Advanced back-end development with **Node.js**  
-- Integrating **cloud services** for scalable web apps  
-- Cross-platform development with **Flutter**  
-
----
-
-### 👨‍💻 I'm Currently Working On  
-- Custom e-commerce platforms using the **MERN Stack**  
-- WordPress development for dynamic content management  
-- Modern UI/UX design projects with a focus on mobile-first design  
-
----
-
-### 🤝 Let’s Collaborate On  
-- **Web development projects** requiring full-stack expertise  
-- **UI/UX design** to enhance user engagement  
-- **Cloud-based solutions** and innovative software products  
+- Programing in **C** 
 
 ---
 
 ### 📫 How to Reach Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahbubislam@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikul-islam-naeem-a18674231/)  
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/torikulislam222?up_rollout=true)  
-
-
----
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torikulislam20241&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Torikulislam20241&theme=radical)  
+📬 Contact me: [mahabubhoss64@gmail.com](mailto:mahabubhoss64@gmail.com)
 
 ---
 
