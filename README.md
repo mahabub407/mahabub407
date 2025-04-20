@@ -34,14 +34,6 @@ A passionate **Full Stack Web Developer** with expertise in **MERN Stack**, **Wo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikul-islam-naeem-a18674231/)  
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/torikulislam222?up_rollout=true)  
 
----
-
-### 🛠️ Languages and Tools  
-![MERN](https://img.shields.io/badge/MERN-3C873A?style=flat-square&logo=react&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)  
-![Wix](https://img.shields.io/badge/Wix-000?style=flat-square&logo=wix&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 
 ---
 
